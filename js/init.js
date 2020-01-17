@@ -431,7 +431,7 @@ function marox_tm_animate_text(){
 	var animateSpan			= jQuery('.marox_tm_animation_text_word');
 	
 		animateSpan.typed({
-			strings: ["Cory Ortega", "Front-End Developer",  "Back-End Developer", "Freelancer"],
+			strings: ["Cory Ortega", "a Front-End Developer",  "a Back-End Developer", "a Freelancer"],
 			loop: true,
 			startDelay: 1e3,
 			backDelay: 2e3
