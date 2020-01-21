@@ -56,6 +56,10 @@ img.svg{
 	margin: 3px;
 }
 
+.footer{
+	margin-top: 5px;
+}
+
 .footer .foot{
 	margin: 3px;
 }
@@ -96,6 +100,15 @@ img.svg{
 }
 
 .card span{position: absolute;}
+
+.rightbox .button{
+	margin-left: 7px;
+	width: 100%;
+}
+
+.rightbox .button a{
+	margin: 10px;
+}
 
 .card .first{
 	top: 0px;
@@ -213,6 +226,7 @@ list-style-type: none;
 	text-decoration: none;
 	list-style-type: none;
 }
+
 
 /* .button .buttons_wrap{
 width: 40px;
@@ -385,7 +399,7 @@ strong{color: #65a8cc;}
 	     -o-transition: all .5s ease;
 	        transition: all .5s ease;
 }
-.marox_tm_header.scroll .marox_tm_navigation_wrap{padding: 24px 0px;}
+.marox_tm_header.scroll .marox_tm_navigation_wrap{padding: 16px 0px;}
 .marox_tm_header.scroll .marox_tm_navigation_wrap .logo .light_logo{display: none;}
 .marox_tm_header.scroll .marox_tm_navigation_wrap .logo .dark_logo{display: inline-block;}
 .marox_tm_navigation_wrap .navigation_inner{position: relative;}
