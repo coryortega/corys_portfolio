@@ -51,10 +51,9 @@ img.svg{
 	height: 15px;
 }
 
-/* .card{
-	margin-bottom: 3%;
-	padding: 1%;
-} */
+.marox_tm_section .marox_tm_footer_wrap .footer .svg{
+	color: white;
+}
 
 .card-body{
 	margin-left: 6%;
