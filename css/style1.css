@@ -53,8 +53,12 @@ img.svg{
 
 .marox_tm_section .marox_tm_footer_wrap .footer .svg{
 	color: white;
+	margin: 1%;
 }
 
+.footer .foot{
+	margin: 1%;
+}
 .card-body{
 	margin-left: 6%;
 }
