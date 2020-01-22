@@ -227,6 +227,9 @@ list-style-type: none;
 	list-style-type: none;
 }
 
+/* .pic{
+	width: 100%;
+} */
 
 /* .button .buttons_wrap{
 width: 40px;
@@ -687,7 +690,7 @@ strong{color: #65a8cc;}
 	z-index: 15;
 	overflow: hidden;
 }
-.marox_tm_universal_box_wrap .overlay_video video{
+.marox_tm_universal_box_wrap .overlay_video .pic{
 	width: 100%;
 	height: 100%;
 	background-repeat: no-repeat;
